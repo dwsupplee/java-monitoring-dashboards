@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.1.2](https://www.github.com/googleapis/java-monitoring-dashboards/compare/v0.1.1...v0.1.2) (2020-02-12)
+
+
+### Documentation
+
+* **regen:** update sample code to set total timeout, add API client header test ([c374c6b](https://www.github.com/googleapis/java-monitoring-dashboards/commit/c374c6bf5c2e6933814d362c8be0173e0963da9a))
+
 ### [0.1.1](https://www.github.com/googleapis/java-monitoring-dashboards/compare/v0.1.0...v0.1.1) (2020-02-04)
 
 
